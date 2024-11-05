@@ -26,6 +26,7 @@ Name:Bakkiyalakshmi.E
 Reg No.:212223220012
 ```
 ```
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -62,7 +63,7 @@ plt.legend(['Regression Line','Data points'])
 
 # Output :
 
-![Screenshot 2024-11-05 211917](https://github.com/user-attachments/assets/5152d3cb-ff9d-4278-9733-7a36494e82dc)
+![image](https://github.com/user-attachments/assets/f89eadcc-30cf-42aa-b0ad-fa1376e98acd)
 
 # Result :
 
